@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/9429d6fe-fa2c-4a63-a1c9-f3ea1c0619dc
 > ## 📂 Module Source Artifacts
 This repository hosts the two core files that constitute the Seasonal Analytics Reporting System, decoupled from the main ERP project for demonstration purposes.
 
-### [Seasonal_Report.aspx](Seasonal_Report.aspx) (Presentation Layer)
+### Seasonal_Report.aspx (Presentation Layer)
 This file handles the complete user interface and client-side presentation.
 * **Dynamic UI Controls:** Manages the multi-select dropdowns and standardizes user inputs.
 * **Print/PDF Styling:** Contains specialized CSS media queries to format the output for executive-level physical reports.
