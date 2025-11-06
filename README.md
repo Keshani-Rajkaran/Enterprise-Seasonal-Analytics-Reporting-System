@@ -27,7 +27,7 @@ This file handles the complete user interface and client-side presentation.
 * **Chart.js Integration:** Bridges the backend data with the frontend JavaScript library to render reactive charts.
 
 ### Seasonal_Report.aspx.cs (Business Logic Layer)
-*  The C# "code-behind" that serves as the intelligence brain of the module.
+*  The C# "code-behind" that serves as the intelligence brain of the system.
 
 *  Validation Engine: Enforces business rules (e.g., preventing future date selection) and manages the two-stage confirmation modal.
 
@@ -39,7 +39,7 @@ This file handles the complete user interface and client-side presentation.
 ## 🚀 Key Functional Capabilities
 
 ### 1. Smart Seasonal Selection & Validation
-The system moves uses predefined, industry-relevant business seasons.
+The system  uses predefined, industry-relevant business seasons.
 * **Temporal Integrity Logic:** Includes advanced validation that prevents users from generating reports for seasons that have not yet occurred, ensuring data integrity and preventing empty-state errors.
 
 ### 2.  Comparative Logic (YoY)
