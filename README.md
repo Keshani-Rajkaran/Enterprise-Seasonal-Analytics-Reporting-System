@@ -2,11 +2,11 @@
 High-performance Seasonal Report dashboard for ASP.NET ERP systems.
 
 ## 📋 Executive Summary
-This module was architected as a high-impact Business Intelligence (BI) upgrade for the McKaylan Motor Engineering ERP system.
+This system was architected as a high-impact Business Intelligence  upgrade for the McKaylan Motor Engineering ERP system.
 
 Previously, management relied on static, single-dimensional reports to gauge seasonal performance. This resulted in missed opportunities for optimizing labor allocation and marketing spend.
 
-**The Solution:** A dynamic, multi-vector analytics engine that transforms raw operational data into actionable strategic insights in real-time. It allows leadership to simultaneously track operational demand, workforce efficiency, and client acquisition trends through a secure, unified dashboard.
+**The Solution:** A dynamic, multi-vector analytics system that transforms raw operational data into actionable strategic insights in real-time. It allows leadership to simultaneously track operational demand, workforce efficiency, and client acquisition trends through a secure, unified dashboard.
 
 ---
 
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/9429d6fe-fa2c-4a63-a1c9-f3ea1c0619dc
 > *Demonstration of the multi-select criteria, two-stage validation security, and real-time chart rendering.*
 >
 > ## 📂 Module Source Artifacts
-This repository hosts the two core files that constitute the Seasonal Analytics engine, decoupled from the main ERP project for demonstration purposes.
+This repository hosts the two core files that constitute the Seasonal Analytics Reporting System, decoupled from the main ERP project for demonstration purposes.
 
 ### [Seasonal_Report.aspx](Seasonal_Report.aspx) (Presentation Layer)
 This file handles the complete user interface and client-side presentation.
