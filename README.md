@@ -2,7 +2,7 @@
 High-performance Seasonal Report dashboard for ASP.NET ERP systems.
 
 ## 📋 Executive Summary
-This system was architected as a high-impact Business Intelligence  upgrade for the McKaylan Motor Engineering ERP system.
+This system was designed as a high-impact Business Intelligence  upgrade for the McKaylan Motor Engineering ERP system.
 
 Previously, management relied on static, single-dimensional reports to gauge seasonal performance. This resulted in missed opportunities for optimizing labor allocation and marketing spend.
 
